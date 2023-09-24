@@ -1,1 +1,1156 @@
+Node: turtlesim1.sim1
+Time: 21:22:49.913078247 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.313095])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.912116238 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.328620])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.912116699 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.344142])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.896908931 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.328617])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.896891297 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.344142])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.896891348 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.359664])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.880156447 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.375186])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.880173089 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.344139])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.880156206 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.359664])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.864865840 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.390708])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.864783412 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.375186])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.864825693 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.359661])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.849136898 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.375183])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.848802309 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.406230])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.848147716 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.390708])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.833012243 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.406230])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.832969530 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.421752])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.832640869 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.390705])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.816739910 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.437274])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.816724231 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.421752])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.816158233 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.406227])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.800944264 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.421749])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.800436889 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.437274])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.800436498 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.452796])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.785096366 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.437271])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.784068751 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.468318])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.784105527 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.452796])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.768934205 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.483840])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.768904108 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.468318])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.768338150 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.452793])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.753072491 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.468315])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.752603560 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.499362])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.752603941 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.483840])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.736557508 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.483837])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.736239612 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.514884])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.736239717 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.499362])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.720436961 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.499360])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.720083873 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.514884])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.720083863 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.530406])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.704544379 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.514882])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.704543547 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.545928])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.704543347 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.530406])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.689014272 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.530404])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.688033537 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.561450])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.688033573 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.545928])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.672403278 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.576972])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.672402236 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.545926])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.672402016 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.561450])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.656455229 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.561448])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.656440871 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.592495])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.656499785 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.576972])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.640540042 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.608017])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.640463155 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.576970])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.640462984 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.592495])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.624698703 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.592492])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.624698468 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.623539])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.624693919 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.608017])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.608439526 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.639061])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.608420184 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.608014])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.608371851 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.623539])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.593063100 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.623536])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.593061507 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.639061])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.593062078 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.654583])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.576682839 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.639058])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.576562838 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.670105])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.576562443 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.654583])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.561191497 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.654580])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.560290165 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.670105])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.560290345 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.685627])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.544712748 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.685627])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.544712818 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.701149])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.544736503 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.670102])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.528424655 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.685624])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.528258415 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.716671])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.528258405 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.701149])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.512674736 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.732193])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.512674675 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.701146])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.512674766 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.716671])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.496913185 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.747715])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.496910871 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.732193])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.496744811 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.716668])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.480970691 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.732190])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.480406572 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.763237])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.480406582 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.747715])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.464543977 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.747712])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.464074415 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.778759])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.464074214 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.763237])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.449054608 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.763235])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.447916671 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.794281])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.447916501 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.778759])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.433026785 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.778757])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.432878771 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.794281])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.432870525 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.809803])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.416309057 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.794279])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.416298998 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.825325])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.416326521 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.809803])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.400341645 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.825325])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.400177715 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.840847])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.400110395 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.809801])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim3.sim3
+Time: 21:22:49.384749034 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.005500, y=4.856369])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.384722954 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.840847])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.384097912 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.825323])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.368786115 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.027983, y=4.840845])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim2.sim2
+Time: 21:22:49.368568222 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.005500, y=4.856369])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
+Node: turtlesim1.sim1
+Time: 21:22:49.352567837 (2023-09-24)
+Severity: Warn
+
+Oh no! I hit the wall! (Clamping from [x=-0.005500, y=4.856367])
+
+Location:
+/home/alina/ros2_ws/src/ros_tutorials/turtlesim/src/turtle.cpp:update:260
+
+----------------------------------------------------------------------------------------------------
+
 
