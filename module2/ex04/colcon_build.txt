@@ -1,0 +1,15 @@
+Starting >>> turtlesim
+Starting >>> whoto1
+Finished <<< whoto1 [0.45s]
+--- stderr: turtlesim
+failed to create symbolic link '/home/alina/ros2_ws/build/turtlesim/ament_cmake_python/turtlesim/turtlesim' because existing path cannot be removed: Is a directory
+gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_turtlesim.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_turtlesim] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:429: CMakeFiles/ament_cmake_python_symlink_turtlesim.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake: *** [Makefile:146: all] Error 2
+---
+Failed   <<< turtlesim [3.81s, exited with code 2]
+
+Summary: 1 package finished [4.04s]
+  1 package failed: turtlesim
+  1 package had stderr output: turtlesim
