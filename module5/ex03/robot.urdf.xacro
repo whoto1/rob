@@ -5,16 +5,16 @@
     <!--xacro:include filename="$(find robot_description)/urdf/lidar.urdf.xacro" /-->
     <!--xacro:include filename="$(find robot_description)/urdf/depth.urdf.xacro" /-->
 
-    <xacro:property name="chassis_length" value="0.335"/>
+    <xacro:property name="chassis_length" value="0.435"/>
     <xacro:property name="chassis_width" value="0.265"/>
     <xacro:property name="chassis_height" value="0.138"/>
-    <xacro:property name="wheel_radius" value="0.033"/>
-    <xacro:property name="wheel_thickness" value="0.026"/>
+    <xacro:property name="wheel_radius" value="0.07"/>
+    <xacro:property name="wheel_thickness" value="0.08"/>
     <xacro:property name="wheel_mass" value="0.05"/>
     <xacro:property name="wheel_offset_x" value="0.226"/>
     <xacro:property name="wheel_offset_y" value="0.1485"/>
     <xacro:property name="wheel_offset_z" value="0.01"/>
-    <xacro:property name="caster_wheel_radius" value="0.01"/>
+    <xacro:property name="caster_wheel_radius" value="0.05"/>
     <xacro:property name="caster_wheel_mass" value="0.01"/>
     <xacro:property name="caster_wheel_offset_x" value="0.075"/>
     <xacro:property name="caster_wheel_offset_z" value="${wheel_offset_z - wheel_radius + caster_wheel_radius}"/>
@@ -38,6 +38,10 @@
 
     <material name="red">
         <color rgba="1 0 0 1"/>
+    </material>
+
+    <material name="yellow">
+        <color rgba="1 1 0 1"/>
     </material>
 
     <link name="base_link">
@@ -72,7 +76,7 @@
         <geometry>
             <box size="${chassis_length} ${chassis_width} ${chassis_height}"/>
         </geometry>
-        <material name="orange"/>
+        <material name="blue"/>
     </visual>
     <collision>
         <origin xyz="${chassis_length/2} 0 ${chassis_height/2}"/>
@@ -89,7 +93,7 @@
     <joint name="left_wheel_joint" type="continuous">
         <parent link="base_link"/>
         <child link="left_wheel"/>
-        <origin xyz="0 ${wheel_offset_y} 0" rpy="-${pi/2} 0 0" />
+        <origin xyz="0.09 ${wheel_offset_y} 0" rpy="-${pi/2} 0 0" />
         <axis xyz="0 0 1"/>
     </joint>
 
@@ -98,7 +102,7 @@
             <geometry>
                 <cylinder radius="${wheel_radius}" length="${wheel_thickness}"/>
             </geometry>
-            <material name="blue"/>
+            <material name="black"/>
         </visual>
         <collision>
             <geometry>
@@ -121,7 +125,7 @@
     <joint name="right_wheel_joint" type="continuous">
         <parent link="base_link"/>
         <child link="right_wheel"/>
-        <origin xyz="0 ${-wheel_offset_y} 0" rpy="${pi/2} 0 0" />
+        <origin xyz="0.09 ${-wheel_offset_y} 0" rpy="${pi/2} 0 0" />
         <axis xyz="0 0 -1"/>
     </joint>
 
@@ -130,7 +134,7 @@
             <geometry>
                 <cylinder radius="${wheel_radius}" length="${wheel_thickness}"/>
             </geometry>
-            <material name="blue"/>
+            <material name="black"/>
         </visual>
         <collision>
             <geometry>
@@ -153,7 +157,7 @@
     <joint name="caster_wheel_joint" type="fixed">
         <parent link="chassis"/>
         <child link="caster_wheel"/>
-        <origin xyz="${caster_wheel_offset_x} 0 ${caster_wheel_offset_z}"/>
+        <origin xyz="${caster_wheel_offset_x - 0.02} 0 ${caster_wheel_offset_z}"/>
     </joint>
 
 
@@ -162,7 +166,7 @@
             <geometry>
                 <sphere radius="${caster_wheel_radius}"/>
             </geometry>
-            <material name="white"/>
+            <material name="black"/>
         </visual>
         <collision>
             <geometry>
@@ -183,5 +187,78 @@
         <mu1 value="0.001"/>
         <mu2 value="0.001"/>
     </gazebo>
+       
+	<!-- I AM SPEED start -->
+	  <!-- T start -->
+	  <!-- Rectangle on the top of base_link -->
+	  <link name="head_of_T">
+	    <visual>
+	      <geometry>
+		<box size="0.1 0.5 0.02"/> <!-- Размеры прямоугольника (высота, ширина, длина) -->
+	      </geometry>
+	      <material name="green">  
+		<color rgba="0.0 1.0 0 1.0"/>
+	      </material>
+	    </visual>
 
+	    <collision>
+	      <geometry>
+		<box size="0.1 0.5 0.02"/> <!-- Размеры прямоугольника для коллизий -->
+	      </geometry>
+	    </collision>
+
+	    <!-- Определение инерции прямоугольника -->
+	    <inertial>
+	      <origin xyz="0 0 0" rpy="0 0 0"/>
+	      <mass value="0.1"/> <!-- Масса прямоугольника -->
+	      <inertia ixx="0.001" ixy="0.0" ixz="0.0" iyy="0.001" iyz="0.0" izz="0.001"/> <!-- Моменты инерции -->
+	    </inertial>
+	  </link>
+
+	  <!-- Joint to connect top_rectangle_link to base_link -->
+	  <joint name="head_of_T_joint" type="fixed">
+	    <parent link="base_link"/>
+	    <child link="head_of_T"/>
+	    <origin xyz="-0.05 0.0 ${chassis_height/2 + 0.07}" rpy="0 0 0"/> <!-- Высота прямоугольника относительно base_link -->
+	  </joint>
+
+	    <!-- Rectangle at a 90 degree -->
+	  <link name="angled_rectangle_link_1">
+	    <visual>
+	      <geometry>
+		<box size="0.25 0.1 0.02"/> <!-- Размеры прямоугольника (высота, ширина, длина) -->
+	      </geometry>
+	      <material name="green">  
+		<color rgba="0 1.0 0 1.0"/>
+	      </material>
+	    </visual>
+
+	    <collision>
+	      <geometry>
+		<box size="0.25 0.1 0.02"/> <!-- Размеры прямоугольника для коллизий -->
+	      </geometry>
+	    </collision>
+
+	    <!-- Определение инерции прямоугольника -->
+	    <inertial>
+	      <origin xyz="0 0 0" rpy="0 0 0"/>
+	      <mass value="0.1"/> <!-- Масса прямоугольника -->
+	      <inertia ixx="0.001" ixy="0.0" ixz="0.0" iyy="0.001" iyz="0.0" izz="0.001"/> <!-- Моменты инерции -->
+	    </inertial>
+	  </link>
+
+	  <!-- Joint to connect angled_rectangle_link_1 to base_link at a 45-degree angle -->
+	  <joint name="angled_rectangle_joint_1" type="fixed">
+	    <parent link="base_link"/>
+	    <child link="angled_rectangle_link_1"/>
+	    <origin xyz="0.1 0 ${chassis_height/2 + 0.07}" rpy="0 0 0"/> 
+	    <axis xyz="1 0 0"/> <!-- Ось вращения вдоль z-оси (вертикальная ось) -->
+	  </joint>
+
+	  
+	  <!-- T end -->
+
+	  <!-- I AM SPEED end-->
+    
 </robot>
+
